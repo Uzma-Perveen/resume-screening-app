@@ -114,6 +114,3 @@ This project uses the **[Updated Resume Dataset on Kaggle](https://www.kaggle.co
 
 **Uzma Perveen**
 Course Project: Resume Screening App
-
-```
-
