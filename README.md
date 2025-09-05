@@ -117,6 +117,3 @@ Course Project: Resume Screening App
 
 ```
 
----
-
-```
